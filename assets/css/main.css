@@ -3792,3 +3792,13 @@ input, select, textarea {
 			}
 
 		}
+
+		/* .running-time {
+			color: var(--card-text-color-secondary);
+			font-weight: normal;
+		
+			.running-days {
+				font-weight:bold;
+				color: var(--emphasize-text-color);
+			}   
+		} */
