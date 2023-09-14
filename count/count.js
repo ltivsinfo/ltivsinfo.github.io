@@ -1,5 +1,5 @@
 										// 设置第一个倒计时的目标日期和时间（以毫秒为单位）
-										const targetDate1 = new Date('2023-12-31 23:59:59').getTime();
+										const targetDate1 = new Date('2023-11-23 23:59:59').getTime();
 								
 										// 设置第二个倒计时的目标日期和时间（以毫秒为单位）
 										const targetDate2 = new Date('2024-04-20 23:59:59').getTime();
