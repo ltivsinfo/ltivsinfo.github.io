@@ -2,8 +2,8 @@
 										//const targetDate1 = new Date('2023-11-23 23:59:59').getTime();
 								
 
-										const targetDate2 = new Date('2024-03-28 23:59:59').getTime();
-										const targetDate3 = new Date('2024-4-27 23:59:59').getTime();
+										const targetDate2 = new Date('2024-03-27 01:00:00').getTime();
+										const targetDate3 = new Date('2024-4-27 01:00:00').getTime();
 								
 										function updateCountdown(targetDate, countdownElementId) {
 											const currentDate = new Date().getTime();
