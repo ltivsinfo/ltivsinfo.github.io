@@ -1,9 +1,9 @@
 										////倒數腳本
-										const targetDate1 = new Date('2023-11-23 23:59:59').getTime();
+										//const targetDate1 = new Date('2023-11-23 23:59:59').getTime();
 								
 
-										const targetDate2 = new Date('2024-04-20 23:59:59').getTime();
-										const targetDate3 = new Date('2024-5-4 23:59:59').getTime();
+										const targetDate2 = new Date('2024-03-28 23:59:59').getTime();
+										const targetDate3 = new Date('2024-4-27 23:59:59').getTime();
 								
 										function updateCountdown(targetDate, countdownElementId) {
 											const currentDate = new Date().getTime();
@@ -20,7 +20,7 @@
 								
 
 											if (timeLeft < 0) {
-												countdownElement.innerHTML = "倒计时已结束";
+												countdownElement.innerHTML = "倒數計時已結束";
 											}
 										}
 								
