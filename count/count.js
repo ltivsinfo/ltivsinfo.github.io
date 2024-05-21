@@ -3,7 +3,7 @@
 								
 
 										const targetDate2 = new Date('2024-07-17 01:00:00').getTime();
-										const targetDate3 = new Date('2024-4-27 01:00:00').getTime();
+										const targetDate3 = new Date('2024-11-21 01:00:00').getTime();
 								
 										function updateCountdown(targetDate, countdownElementId) {
 											const currentDate = new Date().getTime();
